@@ -22,9 +22,7 @@ public abstract class Hero extends RPGCharacter{
     //Implemented by each monster
     public abstract String skill2();
     @Override
-    public String status(){
-        return "";
-    } 
+    public String status(){ return ""; } 
     @Override
     public abstract int accuracy();
 }
