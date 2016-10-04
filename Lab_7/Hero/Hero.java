@@ -23,7 +23,7 @@ public abstract class Hero extends RPGCharacter{
     public abstract String skill2();
     @Override
     public String status(){
-        return "AAAA";
+        return "";
     } 
     @Override
     public abstract int accuracy();
