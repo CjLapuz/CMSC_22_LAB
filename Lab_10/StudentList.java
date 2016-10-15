@@ -33,7 +33,7 @@ public class StudentList extends javax.swing.JFrame {
     private void initComponents() {
 
         Mode = new javax.swing.ButtonGroup();
-        indx = new javax.swing.JLabel();
+        indx = new javax.swing.JLabel(); 
         jPanel1 = new javax.swing.JPanel();
         jLabel1 = new javax.swing.JLabel();
         jLabel2 = new javax.swing.JLabel();
