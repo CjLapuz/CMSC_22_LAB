@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game with added Lizard and Spock
 
-Mechanics
+Mechanics: \n
     Rock beats Scissors & Lizard
     Paper beats Rock & Spock
     Scissors beats Paper & Lizard
