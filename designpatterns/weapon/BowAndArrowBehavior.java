@@ -4,7 +4,7 @@ public class BowAndArrowBehavior implements WeaponBehavior{
 
 	@Override
 	public void useWeapon() {
-		System.out.println("Thwaack… Thud!");
+		System.out.println("exclaims.. Ryu ga waga teki wo kurau!");
 	}
 
 }
