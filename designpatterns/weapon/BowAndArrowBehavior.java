@@ -1,0 +1,10 @@
+package weapon;
+
+public class BowAndArrowBehavior implements WeaponBehavior{
+
+	@Override
+	public void useWeapon() {
+		System.out.println("exclaims.. Ryu ga waga teki wo kurau!");
+	}
+
+}
