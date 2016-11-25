@@ -1,12 +1,11 @@
 package main;
-
-import weapon.BowAndArrowBehavior;
+import weapon.KnifeBehavior;
 
 public class King extends Character {
 
 	public King(String name){
 		super("Knight" +" " +name);
-		super.setWeapon(new BowAndArrowBehavior());
+		super.setWeapon(new KnifeBehavior());
 	}
 	
 	
